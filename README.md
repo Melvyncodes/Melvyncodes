@@ -47,9 +47,9 @@ Telegram-based memecoin sniper with real-time signal processing, deployed on AWS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvyncodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvin&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvyncodes&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
