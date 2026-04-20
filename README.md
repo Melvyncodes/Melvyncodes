@@ -81,7 +81,7 @@ Automated Telegram bot for real-time Solana memecoin sniping with signal process
 
 [![GitHub](https://img.shields.io/badge/GitHub-melvyncodes-181717?style=flat-square&logo=github)](https://github.com/melvyncodes)
 [![Twitter](https://img.shields.io/badge/Twitter-@melvyncodes-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/melvyncodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melvin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/melvyncodes)
+[![LinkedIn](https://img.shields.io/badge/[LinkedIn-Melvin](https://www.linkedin.com/in/melvin-atsiangbe/)-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/melvyncodes)
 
 </div>
 
