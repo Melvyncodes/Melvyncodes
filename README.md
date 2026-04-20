@@ -58,7 +58,7 @@ I'm a Computer Science student at **Bowen University** with a passion for buildi
 Mobile attendance platform using QR codes, NFC, and geolocation verification for students and lecturers.
 `React Native` `Expo` `Firebase` `Firestore` `NFC` `Geolocation`
 
-**[Solana Sniper Bot]([(https://github.com/Melvyncodes/Memecoin-Sniper-bot)]**
+**[Solana Sniper Bot](https://github.com/Melvyncodes/Memecoin-Sniper-bot)**
 Automated Telegram bot for real-time Solana memecoin sniping with signal processing, deployed on AWS EC2.
 `Python` `Telethon` `AWS EC2` `DexScreener API`
 
