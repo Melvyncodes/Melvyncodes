@@ -54,7 +54,7 @@ I'm a Computer Science student at **Bowen University** with a passion for buildi
 
 ## Projects
 
-**[CampusTrack — Smart Attendance System](https://github.com/melvyncodes/campustrack)**
+**[CampusTrack — Smart Attendance System]([https://github.com/melvyncodes/campustrack](https://github.com/Melvyncodes/QR-Attendance)**
 Mobile attendance platform using QR codes, NFC, and geolocation verification for students and lecturers.
 `React Native` `Expo` `Firebase` `Firestore` `NFC` `Geolocation`
 
